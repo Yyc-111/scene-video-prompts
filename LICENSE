@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-本许可证适用于本仓库原创撰写的内容，包括 SKILL.md、references/ 下的规范
-文档，以及 references/知识库/ 中的原创提示词卡片。
-
-仓库中另有改编自第三方项目的内容，其原始许可与署名要求见
-references/来源与改编.md 及各 *-LICENSE.txt 文件。其中
-smixs/visual-skills 部分为 CC BY 4.0，复用时须保留原作者署名（Serge Shima）
-与许可链接，该要求不因本仓库采用 MIT 而免除。
