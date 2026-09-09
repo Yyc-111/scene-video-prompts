@@ -71,6 +71,28 @@ cp -r scene-video-prompts ~/.codex/skills/
 
 当前 v1.7（2026-09-09）。完整历史见 [references/更新记录.md](references/更新记录.md)。
 
+## 来源与致谢
+
+本包在原创基础上审阅并改编了以下公开项目，许可文件随包保留在 `references/` 下：
+
+| 来源 | 许可 | 采用范围 |
+|---|---|---|
+| [smixs/visual-skills](https://github.com/smixs/visual-skills)（Serge Shima） | CC BY 4.0 | 可见表演、空间关系、镜头动机等思想；已删除"每镜必须有障碍/压力/转折"等强制要求 |
+| [zhouwei713/facial-expression-prompting](https://github.com/zhouwei713/facial-expression-prompting) | MIT | 微表情模块方法，按本项目结构重组 |
+| [Krenlis/director-craft-framework](https://github.com/Krenlis/director-craft-framework) | MIT | 镜头与运镜部分 |
+| [anyhui/video-storyboard-gen-skill](https://github.com/anyhui/video-storyboard-gen-skill) | MIT | 镜头与运镜部分 |
+| [waterblower/Omni-Art-Skills: video-prompt-director](https://github.com/waterblower/Omni-Art-Skills) | MIT | 参考图审查、动作节拍、交付审查方法 |
+
+另有摄影/编导类公开资料作为依据引用，详见 [references/来源与改编.md](references/来源与改编.md)。
+
+> 上述项目不构成对本包的背书，也不证明专业资历。本包中标注为「原创设计」的卡片未声称来自任何上游。
+
+## 许可证
+
+本仓库原创内容采用 **MIT**，见 [LICENSE](LICENSE)。
+
+注意：改编自 `smixs/visual-skills` 的部分原始许可为 **CC BY 4.0**，复用时需保留原作者署名与许可链接，该义务不因本仓库整体采用 MIT 而免除。
+
 ## 状态说明
 
 全部卡片与演练案例均为**原创设计，尚未经视频实测**。技能包本身要求：未经实际生成和检查，不标为实测通过。欢迎在实际使用后回填「实测备注」字段。
